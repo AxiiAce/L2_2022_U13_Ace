@@ -34,9 +34,9 @@ https://paletton.com/#uid=54H0N0kllll34NscdtKutcWRO4x
 
 ---
 
-* 
+* Dull, difficult to look at
 
-* 
+* Too much, can make a website look childish 
 
 * 
 
