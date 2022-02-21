@@ -24,6 +24,8 @@ https://paletton.com/#uid=54H0N0kllll34NscdtKutcWRO4x
 
 ## Denied Design
 
+https://paletton.com/#uid=51Q0N0klhll33NtcatIuqcURK4x
+
 ![pallette](img/Ew.png)
 
 ### Hex Values:
@@ -34,9 +36,8 @@ https://paletton.com/#uid=54H0N0kllll34NscdtKutcWRO4x
 
 ---
 
-* Dull, difficult to look at
+* Reminiscent of the colour scheme of a swamp, nobody wants to stare at a swamp for it's inspiring atmosphere
 
-* Too much, can make a website look childish 
+* Can make a website look childish when too many of these types of colours are on a screen at once
 
-* 
-
+* The combinations of these colours together make up a frankly disgusting look that'd look more appropriate being thrown up during a bout of sickness than a professional website
