@@ -24,4 +24,3 @@
 * Well documented
 * Maintainable
 * Easy to test
-* Standards
