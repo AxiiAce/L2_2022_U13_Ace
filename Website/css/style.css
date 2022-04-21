@@ -23,63 +23,34 @@ background-color: #313975;
         color: white;
       }
 
-      .WebContainer{
-        width:100%;
-        min-width:1000px;
-        height:auto;
-    }
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
 
-    #carousel-container {
-      height: 350px;
-      width: 600px;
-      padding: 0;
-      overflow: hidden;
-      text-align: center;
-    }
-    
-    #carousel {
-      position:relative;
-      text-align: center;
-    }
-    
-    #carousel,
-    .slide {
-      height: 100%;
-      list-style: none;
-      margin: 0;
-      padding: 0;
-      text-align: center;
-    }
-    
-    .slide {
-      width: 100%;
-      position: absolute;
-      left: 0;
-      top: 0;
-      opacity: 0;
-      transition: opacity 300ms;
-      text-align: center;
-    }
-    
-    .slide > img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      text-align: center;
-    }
-    
-    .slide:first-child,
-    .slide:target {
-      opacity: 1;
-      text-align: center;
-    }
-    
-    a {
-      display: inline-block;
-      margin: 20px;
-      text-align: center;
-    }
-    
-    nav {
-      text-align: center;
-    }
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #313975
+  ;
+  color: white;
+  text-align: center;
+}
