@@ -1,4 +1,4 @@
-# Planned tests for functionality
+# Planned Tests for Functionality
 
 * [**x**] Open the site in multiple browsers. Chrome, Microsoft Edge, Firefox.
 
@@ -6,7 +6,7 @@
   * Works on Microsoft Edge. Quick loading on all fronts, video loaded in in 3 seconds.
   * Works on Chrome. Instant loading between pages, video loaded in after 1 second.
 
-* [**x**] Test the site with different page sizes.
+* [**x**] Test the site with different page/screen sizes.
   
   * When the home page is resized, the images bug out and move around and form large empty spaces when the screen is below a certain size/has specific proportions.
   * Other than that, the site works perfectly fine with differently sized pages.
